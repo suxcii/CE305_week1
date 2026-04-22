@@ -1,8 +1,8 @@
 # CE305 Homework 1
 
 ## Student Information
-- Name: [Your Name]
-- Student ID: [Your Student ID]
+- Name: Success
+- Student ID: Success Idemudia 
 - Course: CE305 - Computer Organization
 
 ---
