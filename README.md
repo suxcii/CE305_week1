@@ -74,5 +74,5 @@ python main.py
 
 ## Notes
 - Digits greater than or equal to 10 are enclosed in hyphens (e.g., `-16-`)
-- Digits less than 10 are written normally
+- Digits less than 10 are written normally. (may be  wrapped in the middle of hyphens if appears in middle)
 - The program validates all inputs before performing conversions
